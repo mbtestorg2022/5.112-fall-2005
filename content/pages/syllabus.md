@@ -21,12 +21,57 @@ Atkins, Peter and Loretta Jones. _Chemical Principles: The Quest for Insight_. 3
 Grading
 -------
 
-| activities | points |
-| --- | --- |
-| Three 1-hour Exams (100 points each) | 300 |
-| Final Exam | 300 |
-| Homework | 100 |
-| Total | 700 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+points
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three 1-hour Exams (100 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+300
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+300
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+700
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Academic Honesty
 ----------------
