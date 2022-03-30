@@ -4,6 +4,7 @@ description: This resource provides information about people in history, scannin
   tunneling microscopy, and end of the 19th century.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-112-principles-of-chemical-science-fall-2005/dc67e82d72cb38310d3dcc2e8782abcd_lecture1.pdf
 file_type: application/pdf
+parent_uid: 0f6eafa3-3e90-56ec-6097-f69475356be6
 resourcetype: Document
 title: lecture1.pdf
 uid: dc67e82d-72cb-3831-0d3d-cc2e8782abcd

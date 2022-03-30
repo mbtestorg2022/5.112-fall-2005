@@ -4,6 +4,7 @@ description: This resource provides information about dimensionality of material
   and from bonds to bands, and LED device.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-112-principles-of-chemical-science-fall-2005/0c795bb4d6e8789b2378817bcb9235a6_lecture34.pdf
 file_type: application/pdf
+parent_uid: 0f6eafa3-3e90-56ec-6097-f69475356be6
 resourcetype: Document
 title: lecture34.pdf
 uid: 0c795bb4-d6e8-789b-2378-817bcb9235a6

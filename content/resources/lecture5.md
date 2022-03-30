@@ -4,6 +4,7 @@ description: This resource provides information about electron diffraction exper
   and Schrodinger?s equation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-112-principles-of-chemical-science-fall-2005/cead2a3a649a8e19b97b8470a8eb5886_lecture5.pdf
 file_type: application/pdf
+parent_uid: 0f6eafa3-3e90-56ec-6097-f69475356be6
 resourcetype: Document
 title: lecture5.pdf
 uid: cead2a3a-649a-8e19-b97b-8470a8eb5886
